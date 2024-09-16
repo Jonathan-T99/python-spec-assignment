@@ -1,0 +1,12 @@
+Line 1: Hello, this is week five assignment.
+
+Line 2: Here is my favorite game: Football, Handball, volleyball.
+
+Line 3: This is another line with my favorite food:potatoes,beans,meats,rice,banana.
+
+Line 4: This is an appended line with my favorite subjects: Programing,Chemistry,Environmental sustainability,Mathamatics.
+
+Line 5: appended line with my phone number: +250782897717.
+
+Line 6: Appending more lines with my favorite animalls:Caws, Hens,Sheeps,Goats,Rabbits.
+
